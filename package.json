@@ -1,0 +1,12 @@
+{
+  "name": "WriteMyLoader",
+  "version": "0.0.1",
+  "author": "shozawa <tomohiro.shozawa@gmail.com>",
+  "license": "NOLICENCE",
+  "scripts": {
+    "build": "webpack --mode development"
+  },
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
+}
